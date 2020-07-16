@@ -3023,6 +3023,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	section.grey {
+		background-color: rgba(246, 248, 144);
+	}
+
 	header p {
 		position: relative;
 		margin: -0.65rem 0 1.5rem 0;
